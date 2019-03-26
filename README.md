@@ -12,7 +12,7 @@
 
 #### Mach-O格式
 
-![1](/Users/wzp/Desktop/MachO格式/1.png)
+![1](./1.png)
 
 >mach64 Header				文件头 
 >
